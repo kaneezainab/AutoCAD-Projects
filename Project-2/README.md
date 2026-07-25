@@ -146,8 +146,3 @@ AutoCAD-Project-2-Mechanical-Bracket/
     ├── Front_View.png
     └── Dimensioned_Model.png
 
----
-
-## 👩‍💻 Author
-
-### Kaneez Zainab
